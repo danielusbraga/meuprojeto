@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import { Image } from 'react-native';
-import Meucomponente from './components/meucomponente';
+import Meucomponente from './components/Meucomponente';
 
 export default function App() {
   return (
